@@ -12,8 +12,8 @@ const users = {};
 const app = exp();
 const creds         =  {
     redirectUrl: 'http://localhost:3002/tokenForGraph',
-    clientID: 'e80eb675-7c39-442a-aba3-ebb1d3f5fb27',
-    clientSecret: 'vwqzUEKA290%bbvCHE08]%(',
+    clientID: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+    clientSecret: '*******************',
     identityMetadata: 'https://login.microsoftonline.com/common/v2.0/.well-known/openid-configuration',
     allowHttpForRedirectUrl: true, // For development only
     responseType: 'code',
